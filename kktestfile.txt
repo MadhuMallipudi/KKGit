@@ -1,5 +1,6 @@
 1.hello welcome madhu to git
 2.Changes made by git KK 
 3.------------Line ADDED
+6. -------******LINE ADDED
 4.New line added by KK
 5.Madhu added new line
